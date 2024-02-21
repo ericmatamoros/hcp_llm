@@ -1,0 +1,13 @@
+# Package dependencies
+pandas
+numpy
+pyyaml
+jupyter
+scikit-learn
+ipykernel
+
+requests
+openai
+pyarrow
+streamlit
+python-dotenv

@@ -1,0 +1,8 @@
+# LLM Configuration
+
+model: "gpt-3.5-turbo"
+temperature: 0.2
+
+# Number of articles sampled
+sample_data: 2
+
